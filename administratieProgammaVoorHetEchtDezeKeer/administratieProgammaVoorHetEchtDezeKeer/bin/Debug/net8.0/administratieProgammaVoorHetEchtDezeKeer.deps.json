@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "administratieProgammaVoorHetEchtDezeKeer/1.0.0": {
+        "runtime": {
+          "administratieProgammaVoorHetEchtDezeKeer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "administratieProgammaVoorHetEchtDezeKeer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
